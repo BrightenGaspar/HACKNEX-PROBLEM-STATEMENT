@@ -1,5 +1,5 @@
 streamlit
 openai
 pydantic
-opencv-python
+opencv-python-headless
 pillow
